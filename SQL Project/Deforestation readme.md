@@ -1,4 +1,4 @@
-Deforestation Data Analysis Project
+##Deforestation Data Analysis Project
 Project Overview
 
 The Deforestation Data Analysis project involves analyzing deforestation data using SQL to uncover insights related to various problem statements.
