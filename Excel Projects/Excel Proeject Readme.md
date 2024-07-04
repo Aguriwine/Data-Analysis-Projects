@@ -1,17 +1,25 @@
 #Shopping Data Analysis Project
 Project Overview
 
-The Shopping Data Analysis project showcases the application of Microsoft Excel for Data Analytics. The project involves analyzing shopping behavior and trends using a provided dataset and creating a dashboard to monitor business activity. This dashboard aims to address specific problem statements and provide actionable insights for the marketing department.
+The Shopping Data Analysis project showcases the application of Microsoft Excel for Data Analytics. The project involves analyzing shopping behavior and trends using a provided dataset and creating a dashboard to monitor business activity.
+This dashboard aims to address specific problem statements and provide actionable insights for the marketing department.
 
 Problem Statement
 
-The marketing department aims to launch a campaign in the second quarter of 2024. However, they require a dashboard to monitor business activity during the waiting period. This will provide insights into where to channel the campaign efforts. The Marketing lead would like to track various metrics over time, including product performance, changes in customers' choice of color, location, and seasonality patterns in relation to orders. Additionally, any other metric(s) deemed necessary should be incorporated into the dashboard.
+The marketing department aims to launch a campaign in the second quarter of 2024. However, they require a dashboard to monitor business activity during the waiting period.
+This will provide insights into where to channel the campaign efforts. The Marketing lead would like to track various metrics over time, including product performance, changes in customers' choice of color, location, 
+and seasonality patterns in relation to orders. Additionally, any other metric(s) deemed necessary should be incorporated into the dashboard.
 
 Files in the Repository
-Shopping project completed.xlsx: The main dataset containing three sheets:
+
+Shopping project completed.xlsx: The main dataset contains three sheets:
+
 Shopping data: Raw shopping data with details such as item names, categories, prices, and purchase dates.
+
 Shopping data project: Processed data with additional columns, cleaned data, and aggregated results.
+
 DASHBOARD: Visual representations of the data, including charts and graphs summarizing key insights.
+
 Data Description
 Shopping data: Contains raw data on customer purchases, including product details, purchase dates, and prices.
 Shopping data project: Refined data used for deeper analysis, with calculated metrics and cleaned records.
